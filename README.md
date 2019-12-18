@@ -1,5 +1,6 @@
 # MURA
-Abnormality Detection in Bone X-Rays using Deep Learning
+
+![](../master/Poster%20DL.png)
 
 Bone X-Rays are widely used for detecting and localizing abnormalities in various body parts such as shoulder, humerus, elbow, finger, forearm, wrist and hand. The automatic detection of abnormalities with accuracy better or equivalent to human radiologists’ performance could be a tremendous improvement in the diagnosis process. Automatic detection of abnormal
 musculoskeletal conditions can help radiologists select and prioritize the affected people. This is particularly important in underdeveloped and developing countries which have a scarcity of experienced radiologists. Computer-aided detection can provide reliable and informed results for a large volume of cases in very less time.
