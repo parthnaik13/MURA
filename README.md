@@ -9,5 +9,5 @@ We got the idea of this project from an ongoing Bone X-Ray Deep Learning competi
 
 The model performance is compared with that of the radiologists on the Cohen’s Kappa statistic, which expresses the agreement of our model and of each radiologist with the gold standard.
 
-<b>[Our best model notebook](../master/MURA_VGG16.ipynb)</b>
+<b>[Our best model notebook](../master/MURA_VGG16.ipynb)</b><br><br>
 <b>[Detailed report of our project](../master/MURA%20Report.pdf)</b>
